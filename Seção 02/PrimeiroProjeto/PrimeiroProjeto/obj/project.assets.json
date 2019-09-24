@@ -11926,11 +11926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MarcusVinicius\\Udemy\\ASP.NET Core 2.2 - Aprenda construindo uma Loja Virtual\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\MarcusVinicius\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
       "projectName": "PrimeiroProjeto",
-      "projectPath": "C:\\Users\\MarcusVinicius\\Udemy\\ASP.NET Core 2.2 - Aprenda construindo uma Loja Virtual\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+      "projectPath": "C:\\Users\\MarcusVinicius\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
       "packagesPath": "C:\\Users\\MarcusVinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MarcusVinicius\\Udemy\\ASP.NET Core 2.2 - Aprenda construindo uma Loja Virtual\\PrimeiroProjeto\\PrimeiroProjeto\\obj\\",
+      "outputPath": "C:\\Users\\MarcusVinicius\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\PrimeiroProjeto\\PrimeiroProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
